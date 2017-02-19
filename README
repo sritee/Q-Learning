@@ -1,0 +1,5 @@
+Python Qlearning Code, discrete action discrete states.
+Transition Control.py file defines the environment.
+Maze.py runs the learning process.
+Maze Environment used, valid actions up, down, left, and, right.
+Goal is to reach final location, on which episode terminates.
