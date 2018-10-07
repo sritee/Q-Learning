@@ -8,7 +8,7 @@ gamma=0.95
 
 
 allstates=np.zeros([6,9]) # Change the size of the maze.
-num_step_taken=np.zeros(num_iters)
+num_step_taken=np.zeros(int(num_iters))
 # action 0 is right,left is 1, up is 2,down is 3.
 qvalues=np.zeros([54,4])
 
